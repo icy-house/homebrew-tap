@@ -13,10 +13,10 @@
 class Refaver < Formula
   desc "Reset Safari's cached favicons for a site — no Terminal gymnastics"
   homepage "https://github.com/icy-house/refaver"
-  url "https://github.com/icy-house/refaver/releases/download/v0.1.0/refaver-0.1.0.pyz",
+  url "https://github.com/icy-house/refaver/releases/download/v0.1.1/refaver-0.1.1.pyz",
       using: :nounzip
-  version "0.1.0"
-  sha256 "dbdba4f84c19a93b71d50bd6162a50c236900c9ca547dcce0cbd2398cd2ecac6"
+  version "0.1.1"
+  sha256 "5a04f001c868a0cb698a2cd814bad4090f34e293d9d049fa40516c98b1c95aee"
   license "MIT"
 
   depends_on "python@3.12"
