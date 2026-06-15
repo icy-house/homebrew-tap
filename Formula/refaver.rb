@@ -16,7 +16,7 @@ class Refaver < Formula
   url "https://github.com/icy-house/refaver/releases/download/v0.1.1/refaver-0.1.1.pyz",
       using: :nounzip
   version "0.1.1"
-  sha256 "5a04f001c868a0cb698a2cd814bad4090f34e293d9d049fa40516c98b1c95aee"
+  sha256 "99f1aa85763e67ec7acef5a19c4832e2b3b303888e077f281a71f1b5ed03e49f"
   license "MIT"
 
   depends_on "python@3.12"
